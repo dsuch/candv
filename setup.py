@@ -2,7 +2,7 @@ from setuptools import setup, find_packages
 
 setup(
     name='candv',
-    version='1.0.0',
+    version='1.1.0',
     description='Constants and Values: a library for creating non-standard constants',
     license='GPLv2',
     url='https://github.com/oblalex/candv',

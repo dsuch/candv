@@ -1,7 +1,7 @@
 candv: Constants & Values
 =========================
 
-|Build Status| |Coverage Status| |PyPi package| |Downloads|
+|Build Status| |Coverage Status| |PyPi package|
 
 This is a little Python library which provides an easy way for creating complex
 constants.. Inspired by `Constants from Twisted <http://twistedmatrix.com/documents/current/core/howto/constants.html>`_
@@ -16,5 +16,3 @@ information.
    :target: https://coveralls.io/r/oblalex/candv?branch=master
 .. |PyPi package| image:: https://badge.fury.io/py/candv.png
    :target: http://badge.fury.io/py/candv/
-.. |Downloads| image:: https://pypip.in/d/candv/badge.png
-   :target: https://crate.io/packages/candv/
